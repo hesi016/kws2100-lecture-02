@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/hesi016/kws2100-lecture-02#readme",
   "devDependencies": {
+    "typescript": "^5.7.3",
     "vite": "^6.0.7"
   },
   "dependencies": {
